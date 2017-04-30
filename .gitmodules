@@ -2,3 +2,6 @@
 	path = redmine_rest
 	url = https://github.com/gatATAC/redmine_rest.git
 	branch = develop
+[submodule "rmsupportapp"]
+	path = rmsupportapp
+	url = https://github.com/gatATAC/rmsupportapp.git
