@@ -1,0 +1,4 @@
+[submodule "redmine_rest"]
+	path = redmine_rest
+	url = https://github.com/gatATAC/redmine_rest.git
+	branch = develop
